@@ -2,4 +2,6 @@
 
 ### Instructions
 
-* open up object_detection files
+* Download Repository
+* within the python environment install pillow, lxml, and matplotlib
+* 
